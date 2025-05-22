@@ -1,0 +1,49 @@
+2025-05-22 19:15:00 - Action='newFile' | Name='test.txt'
+2025-05-22-19-22-17 : sohai : INFOS : Action demandée : newFile
+2025-05-22-19-22-17 : sohai : INFOS : Paramètre name : test.txt
+2025-05-22-19-22-20 : sohai : INFOS : Action demandée : newFile
+2025-05-22-19-22-20 : sohai : INFOS : Paramètre name : test.txt
+2025-05-22-19-22-44 : sohai : INFOS : Action demandée : newFile
+2025-05-22-19-22-44 : sohai : INFOS : Paramètre name : test.txt
+2025-05-22-19-30-42 : sohai : INFOS : Action demandée : clean
+2025-05-22-19-30-42 : sohai : INFOS : Début nettoyage automatique
+2025-05-22-19-32-14 : sohai : INFO : Requested action: clean
+2025-05-22-19-32-14 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-32-38 : sohai : INFO : Requested action: clean
+2025-05-22-19-32-38 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-34-05 : sohai : INFO : Requested action: clean
+2025-05-22-19-34-05 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-34-24 : sohai : INFO : Requested action: newFile
+2025-05-22-19-34-24 : sohai : INFO : Parameter name: testfile.txt
+2025-05-22-19-34-26 : sohai : INFO : Requested action: listTrash
+2025-05-22-19-37-14 : sohai : INFO : Requested action: emptyInstant
+2025-05-22-19-37-14 : sohai : INFO : Background job started for C:\Users\sohai\Desktop\HyperSweep\scripts\Empty-Trash-Instant.ps1
+2025-05-22-19-40-36 : sohai : INFO : Requested action: clean
+2025-05-22-19-40-36 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-40-54 : sohai : INFO : Requested action: clean
+2025-05-22-19-40-54 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-41-06 : sohai : INFO : Requested action: clean
+2025-05-22-19-41-06 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-41-06 : sohai : INFO : Background job started for C:\Users\sohai\Desktop\HyperSweep\scripts\Cleaner-Tmp.ps1
+2025-05-22-19-41-06 : sohai : INFO : Finished automatic cleaning
+2025-05-22-19-41-32 : sohai : INFO : Requested action: clean
+2025-05-22-19-41-32 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-41-32 : sohai : INFO : Finished automatic cleaning
+2025-05-22-19-41-53 : sohai : INFO : Requested action: clean
+2025-05-22-19-41-53 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-43-05 : sohai : INFO : Requested action: listTrash
+2025-05-22-19-43-16 : sohai : INFO : Requested action: emptyInstant
+2025-05-22-19-43-18 : sohai : INFO : Requested action: listTrash
+2025-05-22-19-43-37 : sohai : INFO : Requested action: clean
+2025-05-22-19-43-37 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-43-37 : sohai : INFO : Background job started for C:\Users\sohai\Desktop\HyperSweep\scripts\Cleaner-Tmp.ps1
+2025-05-22-19-43-37 : sohai : INFO : Finished automatic cleaning
+2025-05-22-19-44-36 : sohai : INFO : Requested action: clean
+2025-05-22-19-44-36 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-44-36 : sohai : INFO : Finished automatic cleaning
+2025-05-22-19-44-52 : sohai : INFO : Requested action: clean
+2025-05-22-19-44-52 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-44-52 : sohai : INFO : Finished automatic cleaning
+2025-05-22-19-45-06 : sohai : INFO : Requested action: clean
+2025-05-22-19-45-06 : sohai : INFO : Starting automatic cleaning
+2025-05-22-19-45-06 : sohai : INFO : Finished automatic cleaning
