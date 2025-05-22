@@ -28,12 +28,12 @@ HyperSweep/
 ├── Test.ps1                   # Script de test de scénarios
 ├── logs/                      # Dossier des journaux
 └── scripts/
-├── Cleaner-Tmp.ps1
-├── Empty-Trash.ps1
-├── Empty-Trash-Instant.ps1
-├── List-Trash.ps1
-├── New-TmpFile.ps1
-└── Restore-FromTrash.ps1
+  ├── Cleaner-Tmp.ps1
+  ├── Empty-Trash.ps1
+  ├── Empty-Trash-Instant.ps1
+  ├── List-Trash.ps1
+  ├── New-TmpFile.ps1
+  └── Restore-FromTrash.ps1
 
 ````
 
